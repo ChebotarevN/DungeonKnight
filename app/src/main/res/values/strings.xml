@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dungeon Knight</string>
+    <string name="start">Начать</string>
+    <string name="exit">Нажмите ещё раз, чтобы выйти</string>
+    <string name="back">Нажмите ещё раз, чтобы вернуться в главное меню</string>
+    <string name="stop">Сначала поставьте на паузу</string>
+</resources>
